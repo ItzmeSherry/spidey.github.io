@@ -1,0 +1,37 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+main {
+    padding: 20px;
+}
+
+#webshooter-section,
+#gallery-section {
+    margin-bottom: 30px;
+}
+
+#webshooter-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
